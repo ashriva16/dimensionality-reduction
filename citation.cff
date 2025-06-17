@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following paper:"
+title: "Trade-offs in the latent representation of microstructure evolution"
+authors:
+  - family-names: Desai
+    given-names: Saaketh
+  - family-names: Shrivastava
+    given-names: Ankit
+    orcid: https://orcid.org/0000-0003-4445-8817
+  - family-names: D'Elia
+    given-names: Marta
+  - family-names: Najm
+    given-names: Habib N.
+  - family-names: Dingreville
+    given-names: Remi
+date-released: 2024-01-15
+doi: 10.1016/j.actamat.2023.119514
+url: https://doi.org/10.1016/j.actamat.2023.119514
+repository-code: https://github.com/ashriva16/latent-microstructure-tradeoffs
+version: "1.0.0"
+license: MIT
+type: software
