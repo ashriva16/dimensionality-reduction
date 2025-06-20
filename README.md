@@ -13,6 +13,7 @@ The authors acknowledges funding under the BeyondFingerprinting Sandia Grand Cha
 When using this dataset please cite the following two papers:
 - S. Desai, A. Shrivastava, M. D’Elia, H. N. Najm, R.Dingreville, Trade-offs in the latent representation of microstructure evolution, Acta Mater.  (2024) . doi: 10.1016/j.actamat.2023.119514
 
+![](highlight.png)
 
 Description
 ------------------------------------------
